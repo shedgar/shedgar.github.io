@@ -1,2 +1,2 @@
 # shedgar.github.io
-pages site for big data spring2018
+github homepage created in the first lecture of 11.S941 - Big Data, Visualization, and Society at MIT
